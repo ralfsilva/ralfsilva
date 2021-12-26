@@ -1,4 +1,4 @@
-### Oi, eu sou o Ralf Velane! Bem vindo(a).
+### Olá, seja Bem Vindo(a)!
 
 <div align="center">
   <a href="https://github.com/velaneralf">
