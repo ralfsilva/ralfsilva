@@ -1,4 +1,4 @@
-### Olá, aqui é onde posto o que faço referente à programação. <br>Fique à vontade, Deus te abençoe.
+### <h2 align=center>Olá, aqui é onde posto o que estou fazendo atualmente em programação. <br>Fique à vontade, tenha um ótimo dia.</h2>
 
 <div align="center">
   <a href="https://github.com/ralfsilva">
