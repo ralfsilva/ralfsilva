@@ -1,4 +1,4 @@
-### Olá, seja Bem Vindo(a)!
+### Olá, aqui é onde posto o que faço referente à programação. <br>Fique à vontade, Deus te abençoe.
 
 <div align="center">
   <a href="https://github.com/ralfsilva">
