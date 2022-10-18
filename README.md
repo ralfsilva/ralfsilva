@@ -1,4 +1,4 @@
-### <h2 align=center>Olá, aqui é onde posto o que estou fazendo atualmente em programação. <br>Fique à vontade, tenha um ótimo dia.</h2>
+### <h2 align=center>Olá, seja bem vindo(a).</h2>
 
 <div align="center">
   <a href="https://github.com/ralfsilva">
